@@ -1,1 +1,1 @@
-pastas e aqrquivos do projeto SociaisBR
+pastas e arquivos do projeto SociaisBR
